@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iammodev
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning to create good E-Commerce Websites.
+- 👀 I have a lot of experience with TailwindCSS and React in Front-End Development and was a Front-End Developer for 5 years.
 - 📫 How to reach me iammothedev@gmail.com
 
 <!---
